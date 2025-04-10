@@ -1,0 +1,11 @@
+NO ./textures/wolf_red.xpm
+SO ./textures/wolf.xpm
+WE ./textures/Greycross.xpm
+EA ./textures/gray_red.xpm
+
+C 15,100,160
+F 110,120,154
+
+11111
+10W01
+11111
